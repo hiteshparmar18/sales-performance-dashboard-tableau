@@ -1,132 +1,122 @@
-# 📊 Sales Performance Dashboard (Tableau)
+# 📊 Sales Performance Dashboard | Tableau Project
 
-## 📌 Project Overview
-This project focuses on analyzing sales data and presenting meaningful business insights using **interactive Tableau dashboards**.  
-The goal of this project is to help users quickly understand overall business performance and then drill down into detailed analysis across products, customers, locations, and employees.
+A modern & interactive **Sales Performance Dashboard** built using **Tableau** that helps
+users understand **business performance, sales trends, and key drivers** — all in one place.
 
-The dashboards are designed in a clean and business-friendly way, making insights easy to understand even for non-technical users.
+This dashboard enables stakeholders to quickly analyze:
+✅ Overall sales health using KPIs  
+✅ Monthly sales trends & growth patterns  
+✅ Product, customer, location & employee performance  
+✅ Contribution analysis for better decision-making  
 
----
-
-## 🎯 Project Objectives
-- Analyze overall sales performance
-- Track key business KPIs
-- Identify top-performing products and customers
-- Understand regional (location-wise) performance
-- Evaluate employee performance
-- Support data-driven decision-making
+Designed with a **clean, business-focused layout** and **smooth navigation** for an intuitive user experience.
 
 ---
 
-## 📈 Key KPIs
-The following KPIs were calculated and used across dashboards:
-- **Total Sales**
-- **Total Orders**
-- **Total Quantity Sold**
-- **Average Order Value (AOV)**
-- **Sales per Customer**
-- **Orders per Customer**
-- **Month-over-Month (MoM) Growth %**
+## 🧠 Why This Project?
 
-> Note: Total Sales was calculated using *Price × Quantity* since sales value was not directly available in the dataset.
+Businesses often struggle to answer questions like:
+➡️ How are our sales performing overall?  
+➡️ Which products and customers generate the most revenue?  
+➡️ Which regions and employees are performing well?  
+➡️ Are sales growing month over month?  
+
+This dashboard answers these questions **instantly** using interactive visualizations.  
+It works as both a **business analytics solution** and a **strong portfolio project** for Data Analytics & BI roles.
 
 ---
 
-## 🧩 Dashboards Included
+## ✨ Key Features
+
+| Category | Feature |
+|--------|--------|
+| 📊 KPIs | Total Sales, Total Orders, Total Quantity, AOV |
+| 📈 Trend Analysis | Monthly Sales Trend & MoM Growth % |
+| 📦 Product Insights | Top products, quantity sold, contribution % |
+| 👤 Customer Analysis | Top customers, sales & orders per customer |
+| 🌍 Location Analysis | State-wise sales using maps & bar charts |
+| 👨‍💼 Employee Performance | Sales, orders, AOV & contribution % |
+| 🎛 Interactivity | Global filters (Date, Product, State) |
+| 🧭 Navigation | Multi-dashboard navigation buttons |
+| 🎨 UI Design | Clean, professional, business-friendly layout |
+
+---
+
+## 🚀 Project Walkthrough
+
+▶️ **[Dashboard Walkthrough Video](https://drive.google.com/file/d/1FgA5NW5r4zEp-W8WYK3geXQC_2yAWf_4/view?usp=drive_link)**  
+
+> A short video walkthrough is included to demonstrate dashboard flow, filters, and navigation.
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technologies |
+|------|-------------|
+| BI Tool | Tableau |
+| Analytics | Data Analysis & Business Intelligence |
+| Visualization | Interactive Dashboards & Charts |
+| Features | Calculated Fields, Filters, LODs, Navigation |
+| Data | Sales, Product, Customer, Location & Employee data |
+
+---
+
+## 📊 Dashboards Overview
 
 ### 🔹 Overview Dashboard
-Provides a high-level summary of business performance:
-- Key KPIs at a glance
+- High-level business KPIs
 - Monthly Sales Trend
 - Month-over-Month Growth %
-- Top 10 Products by Sales
+- Top Products by Sales
 - Sales by State (Map)
-- Global filters and navigation
-
----
 
 ### 🔹 Product Analysis Dashboard
-Focused on understanding product performance:
-- Sales by Product
-- Top 10 Products by Sales
-- Quantity Sold by Product
+- Sales & Quantity by Product
+- Top 10 Products
 - Average Order Value by Product
-- Product Contribution % to Total Sales
-
----
+- Product Contribution %
 
 ### 🔹 Customer Analysis Dashboard
-Focused on customer behavior and value:
-- Top 10 Customers by Sales
+- Top Customers by Sales
 - Sales per Customer
 - Orders per Customer
-- Customer Sales Distribution (Histogram)
-
----
+- Customer Sales Distribution
 
 ### 🔹 Location Analysis Dashboard
-Focused on regional performance:
-- Sales by State (Map)
-- Sales by State (Bar Chart)
+- Sales by State (Map & Bar)
 - Orders by State
 
----
-
 ### 🔹 Employee Analysis Dashboard
-Focused on employee performance:
 - Sales by Employee
 - Orders by Employee
-- Average Order Value by Employee
-- Employee Contribution % to Total Sales
-
----
-
-## 🎛 Key Features
-- Calculated KPIs and business metrics
-- Interactive filters (Date, Product, State)
-- Dashboard navigation for smooth user experience
-- Clean and professional dashboard layout
-- User-friendly design focused on business insights
-
----
-
-## 🛠 Tools & Technologies Used
-- **Tableau**
-- **Data Analytics**
-- **Business Intelligence**
-- **Data Visualization**
-
----
-
-## 🖼 Project Assets
-- Dashboard screenshots are available in the `/images` folder
-- A screen-recorded walkthrough video is included (if available)
-- Tableau Public link can be added for live interaction (optional)
+- AOV by Employee
+- Employee Contribution %
 
 ---
 
 ## 🧠 Key Learnings
-- Creating calculated fields and KPIs in Tableau
-- Using table calculations and LOD expressions
-- Designing multi-dashboard solutions
-- Applying global filters and navigation
-- Business storytelling using data visualization
+
+- Creating business KPIs using calculated fields  
+- Performing trend & growth analysis in Tableau  
+- Designing multi-dashboard analytics solutions  
+- Applying global filters & interactive navigation  
+- Converting raw data into actionable business insights  
 
 ---
 
 ## 🚀 Future Enhancements
+
 - Add sales forecasting
-- Add performance targets and benchmarks
-- Connect to live or real-time data sources
-- Add alert-based insights
+- Add performance targets & benchmarks
+- Connect to real-time data sources
+- Add automated insights & alerts
 
 ---
 
-## 👤 Author
-**Hitesh Parmar**  
-Aspiring Data Analyst | Business Intelligence Enthusiast  
+## 📧 Contact
 
----
+Made by **Hitesh Parmar**  
+📩 Reach out on [LinkedIn](https://www.linkedin.com/in/hiteshparmar18/)
 
-## 🙌 Acknowledgements
-This project was created for learning and portfolio purposes to strengthen skills in data analytics and dashboard design.
+
